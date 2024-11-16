@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandra</h1>
 <h3 align="center">Cook who wants to program</h3>
 
+![Patito con computadora](https://mx.pinterest.com/pin/4855512093925394/)
+
 - 🌱 I’m currently learning **HTML, CSS, Java and Phyton**
 
 - 🤝 I’m looking for help with **HTML**
