@@ -2,7 +2,7 @@
 <h3 align="center">Cook who wants to program</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif94/" alt="Patito con computadora" />
+  <img src="https://imgur.com/mZUUcMf" alt="Patito con computadora" />
 </p>
 
 
