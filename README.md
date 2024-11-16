@@ -2,9 +2,8 @@
 <h3 align="center">Cook who wants to program</h3>
 
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/e3/98/43/e39843e146b7631a1afcb715167a00a0.gif)" alt="Patito con computadora" />
+  <img src="https://i.pinimg.com/originals/e3/98/43/e39843e146b7631a1afcb715167a00a0.gif" alt="Patito" />
 </p>
-
 
 - 🌱 I’m currently learning **HTML, CSS, Java and Phyton**
 
